@@ -1,2 +1,2 @@
 # ExxenProje
-<p>Projenin canlısı için <a href="https://githubnuran.github.io/ExxenProje/">buraya tıklayabiliriniz</a> </p>
+<p>Projenin canlısı için <a href="https://githubnuran.github.io/ExxenProje/">buraya tıklayabilirsiniz</a> </p>
